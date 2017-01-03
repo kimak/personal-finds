@@ -3,7 +3,6 @@
 
 ## COMMON
 
----
 - Performance  
     - [Fiber](http://isfiberreadyyet.com)
     - [Inferno](https://github.com/infernojs/inferno)
@@ -12,8 +11,6 @@
 - Tests
     - [Jest](https://facebook.github.io/jest/blog/2016/07/27/jest-14.html)
 
-***
-___
 ---
 
 
@@ -25,6 +22,7 @@ ___
 
     - Data Visualisation
         - [Victory](https://github.com/FormidableLabs/victory)
+---
 
 ## NATIVE
 
@@ -116,6 +114,8 @@ It handles all tedious tasks, like generating screenshots, dealing with code sig
 
     - [HelloGraphQl](https://github.com/exponentjs/hello-graphql)
     - [GraphQL as a service](https://graph.cool)
+
+---
 
 Other resources:
 
