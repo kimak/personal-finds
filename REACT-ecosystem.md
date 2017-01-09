@@ -16,6 +16,10 @@
 
 ## WEB
 
+- Teaching
+
+    - [11 Lessons Learned: Dec 13, 2016](https://hackernoon.com/11-lessons-learned-as-a-react-contractor-f515cd0491cf#.hqreilwxf)
+
 - Performance 
     - List
         - [ReactVirtualized](https://github.com/bvaughn/react-virtualized)
