@@ -78,6 +78,7 @@
 
     - Debugging
         - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+        - [Reactotron](https://github.com/reactotron/reactotron)
 
     - Deployment
       - Immediate deployment 
