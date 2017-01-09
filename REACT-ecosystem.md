@@ -94,6 +94,10 @@
         
       - [FastLane](https://fastlane.tools/)
           > Fastlane is the tool to release your iOS and Android app 🚀
+
+      - [bitrise](https://www.bitrise.io/)
+          > Continuous integration and delivry mobile
+           
 It handles all tedious tasks, like generating screenshots, dealing with code signing, and releasing your application.
 
     - React Native updates
