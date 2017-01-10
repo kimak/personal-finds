@@ -35,6 +35,9 @@
     - Showcase [Apps](https://facebook.github.io/react-native/showcase.html)
     - React presentation [Spectacle](https://github.com/FormidableLabs/spectacle)
     - Course [React Native Express](http://www.reactnativeexpress.com )
+    - Animation
+        - [react-native-animations-revisited-part I](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884#.2s1sntb93)
+        - [react-native-animations-revisited-part II](https://blog.callstack.io/react-native-animations-revisited-part-ii-8314a97162b0#.h7ob0xx2h)
     
     - [Flexbox](https://facebook.github.io/react-native/docs/flexbox.html)
     
