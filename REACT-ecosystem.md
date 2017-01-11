@@ -18,6 +18,7 @@
 
 - Teaching
 
+    - [React faq](https://github.com/timarney/react-faq#start)
     - [11 Lessons Learned: Dec 13, 2016](https://hackernoon.com/11-lessons-learned-as-a-react-contractor-f515cd0491cf#.hqreilwxf)
 
 - Performance 
@@ -36,6 +37,7 @@
     - React presentation [Spectacle](https://github.com/FormidableLabs/spectacle)
     - Course [React Native Express](http://www.reactnativeexpress.com )
     - Animation
+        - [react-native-animation-book](http://browniefed.com/react-native-animation-book)
         - [react-native-animations-revisited-part I](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884#.2s1sntb93)
         - [react-native-animations-revisited-part II](https://blog.callstack.io/react-native-animations-revisited-part-ii-8314a97162b0#.h7ob0xx2h)
     
