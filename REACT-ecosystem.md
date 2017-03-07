@@ -80,6 +80,7 @@
     - Animation
 
         - [GLReact](https://github.com/ProjectSeptemberInc/gl-react)
+        - [Lottie](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.3e16r9e53)
 
     - Debugging
         - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
