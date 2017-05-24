@@ -20,6 +20,7 @@
 
     - [React faq](https://github.com/timarney/react-faq#start)
     - [11 Lessons Learned: Dec 13, 2016](https://hackernoon.com/11-lessons-learned-as-a-react-contractor-f515cd0491cf#.hqreilwxf)
+    [Intro to React Workshop](https://vimeo.com/213710634)
 
 - Performance 
     - List
@@ -27,7 +28,10 @@
 
     - Data Visualisation
         - [Victory](https://github.com/FormidableLabs/victory)
-
+- Doc
+    - [Styleguidist](https://github.com/styleguidist/react-styleguidist)
+    - [Snapguidist](https://github.com/styleguidist/snapguidist)
+    - [JS.coach](https://js.coach/)
 ---
 
 ## NATIVE
@@ -36,6 +40,7 @@
     - Showcase [Apps](https://facebook.github.io/react-native/showcase.html)
     - React presentation [Spectacle](https://github.com/FormidableLabs/spectacle)
     - Course [React Native Express](http://www.reactnativeexpress.com )
+    - Turing [React Native Intro](http://frontend.turing.io/lessons/react-native-intro.html)
     - Animation
         - [react-native-animation-book](http://browniefed.com/react-native-animation-book)
         - [react-native-animations-revisited-part I](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884#.2s1sntb93)
@@ -76,6 +81,9 @@
             - [Profiling Android UI with Systrace](https://facebook.github.io/react-native/docs/android-ui-performance.html)
     - IOS
         - [CocoaPods](https://cocoapods.org/pods/React)
+
+    - Starter
+        - [Create React Native App](https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html)
     
     - Animation
 
@@ -123,6 +131,7 @@ It handles all tedious tasks, like generating screenshots, dealing with code sig
 # Back Side
 
 - Server Side rendering
+    - [React Snapshot](https://github.com/geelen/react-snapshot)
     - [Hypernova](https://github.com/airbnb/hypernova)
     - [Next](https://github.com/zeit/next.js)
 
