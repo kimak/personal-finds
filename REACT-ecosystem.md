@@ -5,6 +5,7 @@
 
 - Performance  
     - [Fiber](http://isfiberreadyyet.com)
+    - [React under the hood](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
     - [Inferno](https://github.com/infernojs/inferno)
     - [Preact](https://github.com/developit/preact)
 
@@ -52,8 +53,10 @@
 
 - LEARNING
     - Showcase [Apps](https://facebook.github.io/react-native/showcase.html)
-    - React presentation [Spectacle](https://github.com/FormidableLabs/spectacle)
-    - React for CLI [React Ink](https://github.com/vadimdemedes/ink)
+    - Ecosystem
+        - React Word [Redocx](https://github.com/nitin42/redocx)
+        - React presentation [Spectacle](https://github.com/FormidableLabs/spectacle)
+        - React for CLI [React Ink](https://github.com/vadimdemedes/ink)
     - Course [React Native Express](http://www.reactnativeexpress.com )
     - Turing [React Native Intro](http://frontend.turing.io/lessons/react-native-intro.html)
     - Animation
@@ -135,13 +138,19 @@
 
       - [bitrise](https://www.bitrise.io/)
           > Continuous integration and delivry mobile
-           
 It handles all tedious tasks, like generating screenshots, dealing with code signing, and releasing your application.
+
+      - [Hokeyapp](https://hockeyapp.net/#s)
+      - [Appetize.io](https://appetize.io/)
 
     - React Native updates
         - ProductPains [Features discussion](https://productpains.com/product/react-native)
         - [react-native upgrade](https://facebook.github.io/react-native/docs/upgrading.html)
 
+
+    - Open source App
+        - [GitterMobile](https://github.com/JSSolutions/GitterMobile)
+        - Uber Chat [Mattermost](https://github.com/mattermost/mattermost-mobile)
 - FAQ
 
     - How to manage View and Keyboard with TextField ?
@@ -156,6 +165,7 @@ It handles all tedious tasks, like generating screenshots, dealing with code sig
 
 - Server Side rendering
     - [React Snapshot](https://github.com/geelen/react-snapshot)
+    - [Razzle](https://github.com/jaredpalmer/razzle/blob/master/README.md#creating-an-app)
     - [Hypernova](https://github.com/airbnb/hypernova)
     - [Next](https://github.com/zeit/next.js)
 

@@ -11,6 +11,8 @@
 
 - [Changer l'Education](https://www.youtube.com/watch?v=fhwt_7L2D-w)
 
+- [Les lois naturelles de l'enfant](https://www.celinealvarez.org)
+
 - [Do schools kill creativity](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 
 - [Bring on the learning revolution!](https://www.ted.com/talks/sir_ken_robinson_bring_on_the_revolution)
